@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   </p>
 </div> -->
 ## 📫 How to reach Salla Chaitanya Krishna
-## Technologies used
+<!-- ## Technologies used
 
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></li>
 <li><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></li>
 <li><a href="https://en.wikipedia.org/wiki/PHP">PHP</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Django">Django</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Django">Django</a></li> -->
