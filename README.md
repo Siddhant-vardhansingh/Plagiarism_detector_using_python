@@ -3,10 +3,10 @@
 I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 
 ## Hi there, I'm Kumar Raushan Parag <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-I am currently a student of Electronics And Communication at Shri Mata Vaishno Devi University.
+I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 
 ## Hi there, I'm Salla Chaitanya Krishna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-I am currently a student of Electronics And Communication at Shri Mata Vaishno Devi University.
+I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 <br><br>
 
 <!--
