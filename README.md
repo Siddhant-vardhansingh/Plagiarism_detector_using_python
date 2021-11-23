@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/i._am._hritik/"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/></a>-->
 <!-- <a href="https://www.linkedin.com/in/siddhant-vardhan-singh-98288619b/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a>  -->
 <!-- <a href="https://t.me/siddhant_vardhan_singh"><img src="https://img.icons8.com/color/100/000000/telegram-app--v2.png"/></a>  -->
--->
+
 <!-- ## Profiles
 
 <a href="https://www.hackerrank.com/Siddhant_vardhan"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="80" width="80"/></a> 
