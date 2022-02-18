@@ -1,6 +1,6 @@
 # Plagiarism Detector using Python
 
-## Plagiarism Detector Detects the percentage of the document that has been plagiazed.
+## Plagiarism Detector Detects the percentage of the document that has been plagiazed this project has been submitted as mini project evaluation in smvdu.
 
 ## Authors
 
