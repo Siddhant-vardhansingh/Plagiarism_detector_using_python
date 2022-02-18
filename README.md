@@ -1,6 +1,6 @@
-# Project Title
+# Plagiarism Detector using Python
 
-## Description
+## Plagiarism Detector Detects the percentage of the document that has been plagiazed.
 
 ## Authors
 
