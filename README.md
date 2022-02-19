@@ -34,7 +34,7 @@ To install Necessary package.
 
 ## Installation
 
-Install my-project with npm
+Install my-project with cmd.
 
 ```cmd
 git clone https://github.com/Siddhant-vardhansingh/mini-project
