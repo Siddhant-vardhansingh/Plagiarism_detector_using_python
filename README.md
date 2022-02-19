@@ -37,7 +37,7 @@ To install Necessary package.
 Install my-project with cmd.
 
 ```cmd
-git clone https://github.com/Siddhant-vardhansingh/mini-project
+git clone https://github.com/Siddhant-vardhansingh/Plagiarism_detector_using_python.git
 ```
     
 ## Feedback
