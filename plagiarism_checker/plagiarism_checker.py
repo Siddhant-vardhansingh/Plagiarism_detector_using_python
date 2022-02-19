@@ -2,6 +2,42 @@ import os                                                                #for op
 from numpy import vectorize                                                 #operated multidimentional comparable array
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import PyPDF2
+import os
+def checkfiles():
+    path = r"C:\Users\HP\Documents\mini-project\plagiarism_checker"
+    l = os.listdir(path)
+    list = []
+    for files in l:
+        length = len(files)
+        files2 = files[length - 3:]
+        if files2 == 'pdf':
+            list.append(files)
+    return list
+
+def extchange(string):
+    d = list(string)
+    e = len(d)
+    d[e-3:] = ['t', 'x', 't']
+    str1 = ""
+    for k in d:
+        str1 += k
+    return str1
+        
+
+def pdftotxt():
+    a = checkfiles()
+    for i in a: 
+        b = PyPDF2.PdfFileReader(i)
+        str = ""
+        c = b.getNumPages()
+        for j in range(1, c):
+            str += b.getPage(j).extractText()
+        with open(extchange(i), "w", encoding="CP1252") as f:
+            f.write(str)
+
+pdftotxt()
+
 sample_files = [doc for doc in os.listdir() if doc.endswith('.txt')]       #files to be compared
 sample_contents = [open(File).read() for File in sample_files]              #file contents to be compared
 vectorize = lambda Text: TfidfVectorizer().fit_transform(Text).toarray()    #transforms text to array
