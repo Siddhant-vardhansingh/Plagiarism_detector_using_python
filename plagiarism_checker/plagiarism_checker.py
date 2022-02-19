@@ -1,4 +1,4 @@
-import os                                                                   #for operating files
+import os                                                                #for operating files
 from numpy import vectorize                                                 #operated multidimentional comparable array
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -22,4 +22,4 @@ def check_plagiarism():
             results.add(score)                                              #appending the score to results
     return results
 for data in check_plagiarism():
-    print(data)                                                             #printing the data of each segment
+    print(data)   
