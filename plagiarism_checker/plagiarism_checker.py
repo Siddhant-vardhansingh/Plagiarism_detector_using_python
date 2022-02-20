@@ -4,8 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import PyPDF2
 from pdftotext import pdftotxt
-
-pdftotxt()
+from browse import search_for_file_path
 
 sample_files = [doc for doc in os.listdir() if doc.endswith('.txt')]       #files to be compared
 sample_contents = [open(File).read() for File in sample_files]              #file contents to be compared
