@@ -28,6 +28,8 @@ To install Necessary package.
   pip install -U scikit-learn
 ```
 
+To run
+
 ```cmd
   python driver.py
 ```
